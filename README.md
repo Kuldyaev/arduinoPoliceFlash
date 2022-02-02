@@ -11,4 +11,4 @@ flash2.ino  - управляем светодиодами в циклах
 
 
 
-![demo](https://github.com/Kuldyaev/arduinoPoliceFlash/blob/main/flesh.gif)
+![demo](https://github.com/Kuldyaev/arduinoPoliceFlash/blob/main/img/flesh.gif)
