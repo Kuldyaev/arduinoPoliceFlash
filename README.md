@@ -5,7 +5,9 @@ simple sketch
 flash.ino  -- примитивно переделанный Blink
 flash2.ino  - управляем светодиодами в циклах
 
+схема подключения
 
+![demo](https://github.com/Kuldyaev/arduinoPoliceFlash/blob/main/img/arduinoPlan.JPG)
 
 Результат:
 
